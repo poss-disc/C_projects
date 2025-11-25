@@ -1,0 +1,4 @@
+*.o
+*.out
+*.swp
+basic_project/calculator/calc
